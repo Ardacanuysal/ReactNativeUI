@@ -45,7 +45,5 @@ yarn ios
 <div align="center">
   <h1 align="center">Designs</h1>
 </div>
-This project used this tools;
-TextBox-Label-DataGridview-PictureBox-MaskedTextbox-Dataset-Sqlconnection-MsSql
-<h4>:fire: Diagrams</h4>
+
 <img src=""  />
